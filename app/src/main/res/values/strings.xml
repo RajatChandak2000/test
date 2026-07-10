@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpendSentry</string>
+    <string name="open_notification_access">Open notification access</string>
+    <string name="transaction_hint">Detected payments land here so you can finish the note before the day is over.</string>
+</resources>
